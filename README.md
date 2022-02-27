@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Motto banner](https://res.cloudinary.com/phuchoangnguyen1812/image/upload/v1645979598/haha_nbgyiz.jpg)
 <!--
 **PhucHoangNguyen1812/PhucHoangNguyen1812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
